@@ -16,9 +16,9 @@ TIME_ZONE = 'UTC'
 USE_TZ = True
 USE_I18N = True
 USE_L10N = True
-LANGUAGE_CODE = 'en'
+LANGUAGE_CODE = 'pl'
 LANGUAGES = (
-    ('en', 'English'),
+    ('pl', 'Polish'),
 )
 
 # Make this unique, and don't share it with anybody.
